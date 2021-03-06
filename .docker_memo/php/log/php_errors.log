@@ -2,3 +2,4 @@
 [06-Mar-2021 15:48:45 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /var/www/html/common/header.php on line 3
 [06-Mar-2021 15:49:25 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /var/www/html/common/header.php on line 3
 [06-Mar-2021 15:51:13 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /var/www/html/common/header.php on line 3
+[06-Mar-2021 17:15:07 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 17
