@@ -90,6 +90,7 @@ echo getHeader("メモ投稿");
           <form class="w-100 h-100" method="post">
             <input type="hidden" name="edit_id" value="<?php echo $edit_id; ?>" />
             <div id="memo-menu">
+              <!--- formactionで./action/delete.phpを指定しているので、作成した削除機能が呼び出される ---->
               <button type="submit" class="btn btn-danger" formaction="./action/delete.php"><i class="fas fa-trash-alt"></i></button>
               <!--- formactionで./action/update.phpを指定しているので、作成した更新機能が呼び出される ---->
               <button type="submit" class="btn btn-success" formaction="./action/update.php"><i class="fas fa-save"></i></button>
